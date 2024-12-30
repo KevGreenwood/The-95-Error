@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cd095b0001c1696408e0713cfdd7f432, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 56521396224
+    m_Localized: Repeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195193475072
+    m_Localized: This is a special ship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 743640666112
+    m_Localized: 'To move use W or UP
+
+      and shoot with left click
+
+
+
+      You
+      can also slow down
+
+      right click time'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4213013745664
+    m_Localized: This is the percentage chance that the projectile will be fired
+      forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4533982859264
+    m_Localized: Chance decreases with each shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4811423485952
+    m_Localized: 'If the bullet is fired backwards,
+
+      the ship will destroy
+      itself'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4956500267008
+    m_Localized: Grab the orbs to get points and return the chance to 100%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5067968090112
+    m_Localized: 'You will soon discover that this probability
+
+      it''s not as
+      big as it looks'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450861907968
+    m_Localized: Soon you will be afraid to overcome...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5580814028800
+    m_Localized: 'COMPLETE THE OBJECTIVES
+
+      TO WIN'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9528773971968
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

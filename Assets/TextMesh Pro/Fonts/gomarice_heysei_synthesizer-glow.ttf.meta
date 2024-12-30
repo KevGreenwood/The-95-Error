@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bb4f25cb96d46f74fac235be9a1bfda1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Heysei Synthesizer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f4a08079fc9e1894d856d6f896ec909e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

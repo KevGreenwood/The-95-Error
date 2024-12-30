@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: OptionsScene_eo
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: eo
+  m_SharedData: {fileID: 11400000, guid: 6e5e136e5d17718408182815acd72655, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26729254912
+    m_Localized: Muzika volumo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440388292608
+    m_Localized: Plenekrane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726204944384
+    m_Localized: Lingvo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 930115227648
+    m_Localized: Kontroloj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1009370796032
+    m_Localized: Movado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1241668128768
+    m_Localized: Pafu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1546610806784
+    m_Localized: Malrapidigi tempon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1768472711168
+    m_Localized: Reiru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7642188615680
+    m_Localized: "Pa\u016Dzo menuo\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8140530651136
+    m_Localized: Rekomenci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8140966858752
+    m_Localized: Reen al la ludo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55096644734976
+    m_Localized: Restarigi Statistikojn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8443593589456896
+    m_Localized: Audio kaj Lingvo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8444171111563264
+    m_Localized: SFX-Volumo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8454207971983360
+    m_Localized: Fenestro rezolucio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8457227661148160
+    m_Localized: Montru FPS
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

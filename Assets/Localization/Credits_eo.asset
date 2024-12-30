@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Credits_eo
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: eo
+  m_SharedData: {fileID: 11400000, guid: 213563d465def384f9439893a374adde, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8093962240
+    m_Localized: 'A modification of THE 95% THRESHOLD
+
+      Originally created by
+      Alva Majo
+
+
+      <b>Programming and art:</b>
+
+      Alva Majo
+
+      Fury
+      Greenwood
+
+
+      <b>Music:</b>
+
+      A Himitsu - Cease
+
+      Hinkik & A
+      Himitsu - Realms
+
+      Max Brhon - Cyberpunk
+
+      Unknown Brain - Perfect
+      10 (ft. Heather Sommer)
+
+
+      <b>SFX:</b>
+
+      Dustyroom, A Sound Effect,
+      Soniss,
+
+      Double Trouble Audio, Imphenzia
+
+
+      <b>Typography:</b>
+
+      Heysei
+      Synthesizer, by Gomarice
+
+
+      2022 - v2.1.5'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

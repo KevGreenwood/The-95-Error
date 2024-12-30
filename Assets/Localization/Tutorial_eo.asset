@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_eo
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: eo
+  m_SharedData: {fileID: 11400000, guid: cd095b0001c1696408e0713cfdd7f432, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 56521396224
+    m_Localized: Ripeti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195193475072
+    m_Localized: "\u0108i tio estas speciala \u015Dipo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 743640666112
+    m_Localized: "Por movi uzu W a\u016D UP\r\nkaj pafu per maldekstra klako\r\n\r\nVi
+      anka\u016D povas malrapidigi\r\ndekstra klako tempo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4213013745664
+    m_Localized: "\u0108i tiu estas la procenta \u015Danco ke la kuglo estos pafita
+      anta\u016Den"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4533982859264
+    m_Localized: "\u015Canco malplii\u011Das kun \u0109iu pafo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4811423485952
+    m_Localized: "Se la kuglo estas pafita malanta\u016Den,\r\nla \u015Dipo detruos
+      sin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4956500267008
+    m_Localized: "Prenu la orbojn por akiri poentojn kaj redonu la \u015Dancon al
+      100%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5067968090112
+    m_Localized: "Vi balda\u016D malkovros ke \u0109i tiu probableco\r\n\u011Di ne
+      estas tiel granda kiel \u011Di aspektas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450861907968
+    m_Localized: "Balda\u016D vi timos venki..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5580814028800
+    m_Localized: 'KOMPLUTU LA OBJEKTIVOJN
+
+      GAJNI'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9528773971968
+    m_Localized: (La 95% eraro)
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: cd095b0001c1696408e0713cfdd7f432, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 56521396224
+    m_Localized: Repetir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195193475072
+    m_Localized: Esta es una nave especial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 743640666112
+    m_Localized: 'Para moverte usa W o UP
+
+      y disparar con click izquierdo
+
+
+      Tambien
+      puedes ralentizar el
+
+      tiempo con click derecho'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4213013745664
+    m_Localized: Este es el porcentaje de probabilidad de que el proyectil se dispare
+      hacia delante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4533982859264
+    m_Localized: La probabilidad se reduce con cada disparo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4811423485952
+    m_Localized: "Si el proyectil se dispara hacia atr\xE1s,\nla nave se destruir\xE1
+      a s\xED misma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4956500267008
+    m_Localized: Coge los orbes para conseguir puntos y devolver la probabilidad
+      al 100%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5067968090112
+    m_Localized: "Pronto descubrir\xE1s que esa probabilidad\r\nno es tan grande
+      como parece"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450861907968
+    m_Localized: "Pronto te dar\xE1 miedo superar..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5580814028800
+    m_Localized: 'COMPLETA LOS OBJETIVOS
+
+      PARA GANAR'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9528773971968
+    m_Localized: (El error del 95%)
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
