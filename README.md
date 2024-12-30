@@ -16,7 +16,7 @@ Yes, the volume uses a **logarithmic scale**, just as it should. 🎚️
 ## Notes from the Developer  
 This project has been uploaded **for educational purposes only**. Please note that I may not update it further, and it could remain in its current state indefinitely.  
 
-That said, this is my first project as a developer, and I’d love to hear your suggestions for improvement. Feel free to leave your feedback in the comments!  
+That said, this is was first project as a developer, and I’d love to hear your suggestions for improvement. Feel free to leave your feedback in the comments!  
 
 ## Warning ⚠️  
 The game is designed to challenge your patience and resilience. Expect moments of anger and frustration—but also great fun!  
