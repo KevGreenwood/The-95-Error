@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
-public class InputController : MonoBehaviour
+public class InputControllerM : MonoBehaviour
 {
-    public static InputController instance;
-    public PlayerController playerController;
+    public static InputControllerM instance;
+    public PlayerControllerM playerController;
     public bool leftClick;
     public bool rightClick;
     public bool w;
